@@ -1,0 +1,34 @@
+# Environment
+.idea/
+.vs/
+.vscode/
+_ReSharper*/
+*.DotSettings.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+.build/
+*.nupkg
+*.snupkg
+
+# Test results
+[Tt]est[Rr]esults/
+*.trx
+
+# Logs
+[Ll]ogs/
+*.log
+hs_err_pid*.mdmp
+
+
+
+# Mac and Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
