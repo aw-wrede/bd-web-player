@@ -1,0 +1,11 @@
+# Environment
+.idea/
+.vscode/
+_ReSharper.*
+bin
+obj
+packages
+.build
+
+# Mac
+.DS_Store
